@@ -1,0 +1,121 @@
+.vaccination-drive-button {
+    display: flex;
+    margin: 10px;
+}
+.button-section{
+    text-align: right;
+    margin-bottom: -45px;
+}
+.form-input{
+    width: 300px;
+    height: 30px;
+    margin-bottom: 15px;
+}
+.form-select{
+    padding: 1px !important;
+    margin-top: 17px;
+    margin-bottom: 17px;
+    margin-left: -35px;
+    width: 235px !important;
+    height: 30px;
+}
+#grade{
+    margin-left: -34px;
+}
+.gender{
+    margin-top: -30px;
+    margin-left: -10px;
+    width: 50px !important;
+    height: 10px !important;
+    margin-right: -80px !important;
+}
+#outlined-basic{
+    width: 270px;
+    font-size:14px ;
+}
+#outlined-basic-label{
+    margin-top: -3px !important;
+    font-size: 14px;
+}
+.submit-button{
+    margin-top: 20px;
+}
+.popup-header{
+    text-align: center;
+    font-size: 18px;
+}
+.gender-class{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: stretch;
+    justify-content: space-around;
+    align-items: baseline;
+    margin-top: -19px;
+    margin-left: -35px;
+}
+.form-select-section{
+    display: flex;
+    margin-top: -19px;
+}
+form{
+    font-size: 14px;
+}
+.popup-section{
+    background-color: #D0CFCF;
+    padding: 20px;
+    margin-top: -32px;
+    margin-bottom: 10px;
+    margin-left: -32px;
+    width: 396px;
+}
+.upload-students-content{
+    text-align: center;
+    font-size: 13px;
+}
+.download-template{
+    display: block;
+    cursor: pointer;
+    font-size:14px;
+    color: blue;
+    text-decoration: underline;
+}
+.download-template:hover{
+    color: #7f58b5;
+}
+.download-template:active{
+    color: #7f58b5;
+}
+#dob{
+    width: 200px;
+    margin-top: 20px;
+    margin-left: 23px;
+}
+.upload-file{
+    display: initial;
+    border: 1px solid white;
+    padding: 1px;
+}
+#male{
+    margin-left: -70px !important;
+}
+#female{
+    margin-left: -70px !important;
+}
+#other{
+    margin-left: -70px !important;
+}
+.alert-danger{
+    background-color: white !important;
+    font-weight: bold !important;
+    font-size: 11px !important;
+    margin-top: -0.8rem !important;
+    margin-bottom: 7px !important;
+    color: red !important;
+}
+label{
+    width: 100px;
+}
+#aadhar{
+    margin-bottom: 20px;
+}

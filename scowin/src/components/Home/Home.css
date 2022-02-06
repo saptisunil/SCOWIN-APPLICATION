@@ -1,0 +1,174 @@
+.home-header {
+    text-align: left;
+    font-size:18px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.card{
+    width: 20rem;
+    border: 1px solid #ADACAC;
+    background-color: #F9EBEB;
+    padding: 10px;
+}
+.card-group{
+    display: flex;
+}
+.card-link{
+    display: contents;
+}
+.card-link:hover{
+    color: #7f58b5;
+}
+.card-link:active{
+    color: #7f58b5;
+}
+.card-body{
+    text-align: left;
+}
+.card-header{
+    text-align: right;
+}
+hr{
+    color: #ADACAC !important;
+}
+.card-title{
+    font-weight: bold;
+}
+.card-text{
+    font-size: 16px;
+}
+.recharts-default-legend{
+    display: grid;
+    margin-left:-475px !important;
+    font-size: 14px;
+    transform: translateY(-40px);
+}
+.recharts-wrapper{
+    margin-top: -25px;
+    margin-left: -55px;
+    margin-bottom: -35px;
+}
+.vaccine-table{
+    text-align: left;
+    margin-top: 50px;
+}
+
+@media only screen and (max-width:1345px) {
+    .recharts-default-legend{
+        font-size: 12px;
+        transform: translateX(-40px);
+        margin-bottom: 30px !important;
+    }
+}
+@media only screen and (max-width:1350px) {
+    .recharts-default-legend{
+        font-size: 12px;
+        transform: translateX(-40px);
+        margin-bottom: 30px !important;
+    }
+}
+@media only screen and (max-width:1274px) {
+    .nav{
+        font-size: 15.5px;
+    }
+}
+@media only screen and (max-width:1234px) {
+    .nav{
+        font-size: 15px;
+    }
+}
+@media only screen and (max-width:1244px) {
+    .nav{
+        margin-left: -10px;
+    }
+}
+@media only screen and (max-width:1199px) {
+    .recharts-default-legend{
+        font-size: 11px;
+        transform: translateX(-60px);
+        margin-bottom: 20px !important;
+    }
+    .nav{
+        font-size: 14.5px;
+    }
+}
+@media only screen and (max-width:1185px) {
+    .nav{
+        margin-left: -5px;
+    }
+}
+@media only screen and (max-width:1180px) {
+    .nav{
+        font-size: 14px;
+    }
+}
+@media only screen and (max-width:1155px) {
+    .nav{
+        margin-left: -10px;
+    }
+}
+@media only screen and (max-width:1145px) {
+    .nav{
+        font-size: 13.5px;
+    }
+}
+@media only screen and (max-width:1115px) {
+    .nav-item{
+        margin-left: -5px;
+    }
+}
+@media only screen and (max-width:1085px) {
+    .nav-item{
+        margin-left: -10px;
+    }
+}
+@media only screen and (max-width:1055px) {
+    .nav-item{
+        margin-left: -15px;
+    }
+}
+@media only screen and (max-width:1025px) {
+    .nav-item{
+        margin-left: -20px;
+    }
+}
+@media only screen and (max-width:995px) {
+    .nav{
+        font-size: 13px;
+    }
+}
+@media only screen and (max-width:991px) {
+    .recharts-default-legend{
+        font-size: 11px;
+        transform: translateX(-120px);
+        margin-bottom: 5px !important;
+    }
+}
+@media only screen and (max-width:965px) {
+    .nav{
+        margin-left: -25px;
+    }
+}
+@media only screen and (max-width:950px) {
+    .nav{
+        margin-left: -30px;
+    }
+    .logo-image{
+        height: 80px !important;
+        width: 90px !important;
+      }
+}
+
+@media only screen and (max-width:925px) {
+    .nav{
+        margin-left: -35px;
+    }
+    .logo-image{
+        margin-left: -20px;
+    }
+}
+@media only screen and (max-width:900px) {
+    .nav{
+        margin-left: -36px;
+    }
+}

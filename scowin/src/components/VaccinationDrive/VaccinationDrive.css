@@ -1,0 +1,91 @@
+.vaccination-drive-button {
+  width: 200px;
+  align-self: flex-end;
+}
+input {
+  display: block;
+  box-sizing: border-box;
+  width: 100%;
+  border-radius: 4px;
+  border: 1px solid #000;
+  padding: 10px 15px;
+  margin-bottom: 10px;
+  font-size: 14px;
+  width: 200px;
+  height: 30px;
+}
+
+label {
+  text-align: left;
+  display: block;
+  margin-bottom: 13px;
+  margin-top: 20px;
+  font-size: 14px;
+  font-weight: 200;
+}
+
+select {
+  display: block;
+}
+
+.popup-header{
+  text-align: center;
+  font-size: 18px;
+}
+.popup-section{
+  background-color: #D0CFCF;
+  padding: 20px;
+  margin-top: -32px;
+  margin-bottom: 10px;
+  margin-left: -32px;
+  width: 396px;
+}
+.submit-button{
+  margin-top: 20px;
+  width: 100px;
+}
+.form-input{
+  display: flex;
+}
+.slots{
+  margin-top: 20px;
+  margin-left: 86px;
+  width: 176px;
+}
+.vaccineName{
+  width: 187px;
+  height: 30px;
+  margin-left: 12px;
+  margin-top: 20px;
+}
+.doses-available{
+  margin-top: 20px;
+  margin-left: 25px;
+  width: 180px;
+}
+.vaccine-date{
+  margin-left: 50px;
+  margin-top: 20px;
+  width: 180px;
+  height: 30px;
+}
+.vaccine-name{
+  margin-left:30px;
+  width: 187px;
+  margin-bottom: -16px;
+  margin-top: 16px;
+}
+.button-sec{
+  text-align: right;
+  margin-bottom: -45px;
+}
+.alert-error{
+  background-color: white !important;
+  font-weight: bold !important;
+  font-size: 11px !important;
+  color: red !important;
+  margin-top: 10px;
+  margin-bottom: -9px;
+  text-align: right;
+  margin-right: 40px;
+}
